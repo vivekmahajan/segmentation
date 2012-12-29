@@ -1,8 +1,12 @@
-This is the code for the final project. I have used libQGLViewer + Qt for this course.
-
+Finding communities in 3D meshes- A novel way to segment a 3D mesh
+==================================================================
+This was my final project for the course Geometric Modeling in computer graphics taught by [Dr. Richard Zhang](http://www.cs.sfu.ca/~haoz/) in Spring 2012. The algorithm and the results can be found [here](http://dl.dropbox.com/u/15298710/GeometricModeling.pdf)
 
 Q. How to run the executable?
 A. Run the shell script named "runThisScript.sh". This will do everything for you. It has qmake, make and also adds path to the libraries which is required during the run time. Just running make outside won't work. To clean the object files use $make clean. I am using igraph and libQGLViewer which lies inside usr directory.
+
+Note:- You need to make sure the library has the correct path. Have a look at A2P6.pro for more information.
+
 
 GUI:-
 Important:-
@@ -42,5 +46,3 @@ Down                 Moves camera down
 
 
 
-
-Thanks!
