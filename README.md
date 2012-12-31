@@ -64,9 +64,9 @@ Keyboard Actions:-
 </table>
 Snapshots
 ---------
-After loading the .off file of the bull
+After loading the .off file of the bull 
 ![1](http://dl.dropbox.com/u/15298710/1.png "After loading the .off file of the bull")
-Setting the parameter for the semgmentation algorithm
+Setting the parameter for the semgmentation algorithm 
 ![2](http://dl.dropbox.com/u/15298710/2.png "Setting the parameter for the semgmentation algorithm")
-Resulting segmentations
+Resulting segmentations 
 ![3](http://dl.dropbox.com/u/15298710/3.png "Resulting segmentations")
