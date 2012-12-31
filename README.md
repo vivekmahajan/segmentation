@@ -10,7 +10,7 @@ Note:- You need to make sure the library has the correct path. Have a look at A2
 
 GUI:- 
 Important:- 
-The software now only takes .off files as provided under the mesh benchmark paper. I am attaching some of the files with the code. You can download more from [here](http://segeval.cs.princeton.edu/public/Download/off.zip) 
+The software now only takes .off files as provided under the mesh benchmark paper. I am attaching some of the files with the code. You can download more from [here](http://segeval.cs.princeton.edu/public/Download/off.zip). 
 
 After running the shell script you will get one window in which the mesh will be rendered. It has two drop down menus at the top left corner viz. file and operations. For this project, I have added three more options under  
 operations menu
@@ -63,4 +63,8 @@ Keyboard Actions:-
 <td> Down    </td><td>             Moves camera down </td>
 </tr>
 </table>
-
+Snapshots
+---------
+![1](/home/vivek/Desktop/1.png "After loading the .off file of the bull")
+![2](/home/vivek/Desktop/2.png "Setting the parameter for the semgmentation algorithm")
+![3](/home/vivek/Desktop/3.png "Resulting segmentations")
