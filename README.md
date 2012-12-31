@@ -44,7 +44,7 @@ Right double click   Centers scene
 <tr>
 Middle               Zooms camera 
 </tr>
-
+</table>
 Keyboard Actions:- 
 <table>
 <tr>
