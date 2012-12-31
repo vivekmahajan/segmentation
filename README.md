@@ -65,6 +65,6 @@ Keyboard Actions:-
 </table>
 Snapshots
 ---------
-![1](/home/vivek/Desktop/1.png "After loading the .off file of the bull")
-![2](/home/vivek/Desktop/2.png "Setting the parameter for the semgmentation algorithm")
-![3](/home/vivek/Desktop/3.png "Resulting segmentations")
+![1](http://dl.dropbox.com/u/15298710/1.png "After loading the .off file of the bull")
+![2](http://dl.dropbox.com/u/15298710/2.png "Setting the parameter for the semgmentation algorithm")
+![3](http://dl.dropbox.com/u/15298710/3.png "Resulting segmentations")
