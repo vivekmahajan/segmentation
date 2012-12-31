@@ -24,43 +24,43 @@ After running the segmentation algorithm, you might wanna run the fixing artifac
 Mouse Actions:- 
 <table>
 <tr>
-Button(s)            Description 
+<td> Button(s) </td>         <td>  Description </td>
 </tr>
 <tr>
-Wheel                Zooms camera 
+<td> Wheel    </td><td>            Zooms camera </td> 
 </tr>
 <tr>
-Left                 Rotates camera 
+<td> Left   </td><td>              Rotates camera </td> 
 </tr>
 <tr>
-Left double click    Aligns camera 
+<td>Left double click </td> <td>   Aligns camera</td> 
 </tr>
 <tr>
-Right                Translates camera 
+<td>Right </td><td>                Translates camera</td> 
 </tr>
 <tr>
-Right double click   Centers scene 
+<td>Right double click</td><td>   Centers scene </td>
 </tr>
 <tr>
-Middle               Zooms camera 
+<td>Middle </td><td>              Zooms camera </td> 
 </tr>
 </table>
 Keyboard Actions:- 
 <table>
 <tr>
-Key(s)               Description 
+<td>Key(s)   </td><td>            Description </td> 
 </tr>
 <tr>
-Left                 Moves camera left 
+<td>Left </td><td>                Moves camera left </td>
 </tr>
 <tr>
-Up                   Moves camera up 
+<td>Up </td><td>                  Moves camera up </td>
 </tr>
 <tr>
-Right                Moves camera right 
+<td>Right   </td><td>             Moves camera right </td>
 </tr>
 <tr>
-Down                 Moves camera down 
+<td> Down    </td><td>             Moves camera down </td>
 </tr>
 </table>
 
